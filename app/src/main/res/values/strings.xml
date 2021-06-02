@@ -6,4 +6,12 @@
     <string name="switch1">Вкл/Выкл</string>
     <string name="checkBox">Пункт 1</string>
     <string name="toggle">Тумблер</string>
+    <string name="text">Text</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="number">Number</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
 </resources>
