@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Homework1</string>
+    <string name="homework1">Homework1</string>
+    <string name="inputNumber">Введите число</string>
+    <string name="button">Кнопка</string>
+    <string name="switch1">Вкл/Выкл</string>
+    <string name="checkBox">Пункт 1</string>
+    <string name="toggle">Тумблер</string>
 </resources>
